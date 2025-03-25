@@ -1,4 +1,4 @@
 # demo
-first repo
+first repository
 <br>
 AUTHOR : GANESH PRASAD
